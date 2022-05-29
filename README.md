@@ -1,2 +1,1 @@
-# jsvnext
-javascript reviews
+Review latest javascript ECMASCRIPT
